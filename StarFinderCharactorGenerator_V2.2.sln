@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarFinderCharactorGenerator_V2.2", "StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2.csproj", "{6A1B6813-4F5A-4AEA-903F-86AEF8ACD15A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8AF84608-4A13-40EF-A2A2-72F1A6AF0C0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Character Classes", "Character Classes", "{F02C6784-B2D6-42E2-95FA-045790C6EF9A}"
+	ProjectSection(SolutionItems) = preProject
+		StarFinderCharactorGenerator_V2.2\EnvoyClass.cs = StarFinderCharactorGenerator_V2.2\EnvoyClass.cs
+		StarFinderCharactorGenerator_V2.2\MechClass.cs = StarFinderCharactorGenerator_V2.2\MechClass.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1B6813-4F5A-4AEA-903F-86AEF8ACD15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1B6813-4F5A-4AEA-903F-86AEF8ACD15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1B6813-4F5A-4AEA-903F-86AEF8ACD15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1B6813-4F5A-4AEA-903F-86AEF8ACD15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F02C6784-B2D6-42E2-95FA-045790C6EF9A} = {8AF84608-4A13-40EF-A2A2-72F1A6AF0C0F}
+	EndGlobalSection
+EndGlobal

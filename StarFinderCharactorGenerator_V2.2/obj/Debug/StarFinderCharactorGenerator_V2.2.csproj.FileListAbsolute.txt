@@ -1,0 +1,39 @@
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe.config
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.pdb
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csprojResolveAssemblyReference.cache
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Form1.resources
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Properties.Resources.resources
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csproj.GenerateResource.Cache
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\AnubitFire\Desktop\RPG Stuff\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.pdb
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe.config
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.pdb
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csprojResolveAssemblyReference.cache
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Form1.resources
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Properties.Resources.resources
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csproj.GenerateResource.Cache
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csproj.CoreCompileInputs.cache
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\Joey User\OneDrive - College of Western Idaho\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.pdb
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe.config
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.pdb
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csprojResolveAssemblyReference.cache
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Form1.resources
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Properties.Resources.resources
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csproj.GenerateResource.Cache
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csproj.CoreCompileInputs.cache
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\User18am\OneDrive - College of Western Idaho(1)\Personal\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.pdb
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe.config
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\bin\Debug\StarFinderCharactorGenerator_V2.2.pdb
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csprojResolveAssemblyReference.cache
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Form1.resources
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2._2.Properties.Resources.resources
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csproj.GenerateResource.Cache
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.csproj.CoreCompileInputs.cache
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.exe
+C:\Users\Joey User\Desktop\StarFinderCharactorGenerator_V2.2\StarFinderCharactorGenerator_V2.2\obj\Debug\StarFinderCharactorGenerator_V2.2.pdb
